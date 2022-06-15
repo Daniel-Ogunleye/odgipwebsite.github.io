@@ -170,9 +170,6 @@ header{
 
 /* gallery */
 
-#gallery .container-fluid .container-fluid{
-  background: radial-gradient(#3bbcd4, #9ccda0, #f8f098);
-}
 
 auto-flow: dense;
 }
